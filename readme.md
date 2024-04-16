@@ -2,7 +2,7 @@
 Simple command line program that counts the occurances of a file name (without file extension) inside the file.
 
 ## Run instructions
-Run executive with argument string of file name,
+Run executable (can be downloaded as release) with argument string of file name,
 ex: `NameCounter.exe "inputFile.txt"`.
 One can build the project themselves from top directory with `dotnet build`.
 Tests can be run with `dotnet test` in top directory.
